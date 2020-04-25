@@ -1,0 +1,17 @@
+main(){
+   int a;
+   string b , c , e ;
+   
+   a = 2;
+   b = "abc999df";
+   c = "1234_abcd" ;
+   e = ( (b intercept (c substring 2 )) concat (b difference c) ) substring a;
+   
+   print e ;
+   print ("algo" concat " no algo") difference "cuba"; 
+   print "hola mundo";
+   int hi_i_am_a_number;
+   hi_i_am_a_number = 1234;
+   print hi_i_am_a_number;
+   print 4321;    
+}
